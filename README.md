@@ -1,2 +1,2 @@
 # data-acquisition-
-Engineering work based on data scraping from popular sites such as mediaexpert and euro wrote in 2022
+Engineering project based on data scraping from popular sites such as mediaexpert and euro wrote in 2022
